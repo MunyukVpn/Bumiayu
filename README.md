@@ -9,4 +9,4 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/MunyukVpn/Bumiayu/main/Fls/update && chmod +x update && ./update</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/MunyukVpn/Bumiayu/main/bumiayu/update && chmod +x update && ./update</code></pre>
